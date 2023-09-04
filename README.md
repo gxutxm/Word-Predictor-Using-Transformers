@@ -5,7 +5,7 @@ This is a language model that can predict the next word in a sequence. It is bas
 ## Features:
 
 1. **Multi-Model Compatibility:** This project is designed to work with multiple transformer-based language models, including BERT, XLNet, XLM-Roberta, BART, Electra, and Roberta. It allows users to seamlessly switch between these models for masked token predictions.
-2. **Predictive Functionality:** The core functionality of this project is to generate predictions for a given input text sentence with a masked token ("<mask>"). It provides predictions for the most likely tokens to fill in the mask using each selected model.
+2. **Predictive Functionality:** The core functionality of this project is to generate predictions for a given input text sentence with a masked token ("<mask<mask>>"). It provides predictions for the most likely tokens to fill in the mask using each selected model.
 3. **Customizable Prediction Count:** Users can customize the number of top predictions to consider for each model by adjusting the top_k variable. This flexibility allows for fine-tuning the prediction results according to specific requirements.
 4. **Ease of Use:** The code includes functions for encoding, decoding, and generating predictions. Users can easily integrate this functionality into their own projects or use it for experimentation and analysis.
 5. **Pre-Trained Models:** The project leverages pre-trained transformer models from the Hugging Face Transformers library, which are known for their high performance in natural language understanding tasks. This ensures that the predictions are based on state-of-the-art language models.
