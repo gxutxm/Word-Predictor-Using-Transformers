@@ -66,7 +66,7 @@ This is a language model that can predict the next word in a sequence. It is bas
 4. Click on the IP address from the terminal and try forming sentences to see how different transformers suggests new words
 
 ## Result:
-https://github.com/gxutxm/Word-Predictor-Using-Transformers/assets/81068888/501301e2-845e-446d-b796-e03bdb627657
+https://github.com/gxutxm/Word-Predictor-Using-Transformers/assets/81068888/1f62a93d-89af-4920-8be8-ca9ff5b76474
 
 ## Project Structure:
 
